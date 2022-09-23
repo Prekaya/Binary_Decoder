@@ -1,0 +1,10 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/Nana/6111Projects/Binary_Decoder/Binary_Decoder.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/Nana/6111Projects/Binary_Decoder/Binary_Decoder.srcs/sim_1/new/top_level_tb.sv,1658199702,systemVerilog,,,,top_level_tb,,,,,,,,
+C:/Users/Nana/6111Projects/Binary_Decoder/Binary_Decoder.srcs/sources_1/new/four_sixteen_bd.sv,1658178317,systemVerilog,,C:/Users/Nana/6111Projects/Binary_Decoder/Binary_Decoder.srcs/sources_1/new/top_level.sv,,four_sixteen_bd,,,,,,,,
+C:/Users/Nana/6111Projects/Binary_Decoder/Binary_Decoder.srcs/sources_1/new/three_eight_bd.sv,1658178035,systemVerilog,,C:/Users/Nana/6111Projects/Binary_Decoder/Binary_Decoder.srcs/sources_1/new/top_level.sv,,three_eight_bd,,,,,,,,
+C:/Users/Nana/6111Projects/Binary_Decoder/Binary_Decoder.srcs/sources_1/new/top_level.sv,1658199589,systemVerilog,,C:/Users/Nana/6111Projects/Binary_Decoder/Binary_Decoder.srcs/sources_1/new/two_four_bd.sv,,top_level,,,,,,,,
+C:/Users/Nana/6111Projects/Binary_Decoder/Binary_Decoder.srcs/sources_1/new/two_four_bd.sv,1658175857,systemVerilog,,C:/Users/Nana/6111Projects/Binary_Decoder/Binary_Decoder.srcs/sim_1/new/top_level_tb.sv,,two_four_bd,,,,,,,,

@@ -1,0 +1,19 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 25cb6fdb087b48c182d2ba63cecd8ecf --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot top_level_tb_behav xil_defaultlib.top_level_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 4 differs from formal bit length 16 for port 'sw' [C:/Users/Nana/6111Projects/Binary_Decoder/Binary_Decoder.srcs/sim_1/new/top_level_tb.sv:13]
+WARNING: [VRFC 10-3091] actual bit length 4 differs from formal bit length 3 for port 'a' [C:/Users/Nana/6111Projects/Binary_Decoder/Binary_Decoder.srcs/sources_1/new/top_level.sv:6]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Users/Nana/6111Projects/Binary_Decoder/Binary_Decoder.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.two_four_bd
+Compiling module xil_defaultlib.three_eight_bd
+Compiling module xil_defaultlib.top_level
+Compiling module xil_defaultlib.top_level_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot top_level_tb_behav
